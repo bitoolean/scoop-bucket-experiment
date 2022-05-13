@@ -9,9 +9,7 @@ bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 How do I install these manifests?
 ---------------------------------
 
-Don't!  
-  
-ignore the rest of this page...
+Don't!  and please ignore everything below...
   
   
 ______________________________________________________
