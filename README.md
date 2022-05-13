@@ -9,19 +9,13 @@ bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 How do I install these manifests?
 ---------------------------------
 
-Don't!
-
+Don't!  
+  
 ignore the rest of this page...
-
-
-
-
-
-
-
-
-
-
+  
+  
+______________________________________________________
+  
 To add this bucket, run `scoop bucket add <bucketname> https://github.com/<username>/<bucketname>`. To install, do `scoop install <manifest>`.
 
 How do I contribute new manifests?
